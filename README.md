@@ -1,4 +1,4 @@
-# JAVA COMPLETO - Projeto Sistema de Jogo de Xadrex
+# JAVA COMPLETO - Projeto Sistema de Jogo de Xadrez
 
 ## Objetivo
 
